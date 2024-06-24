@@ -1,4 +1,10 @@
 images:
+- added: '2024-06-24 13:08:28.015280'
+  iiif: true
+  thumbnail: ''
+  title: whole map (recto)
+  url: https://iiif.bodleian.ox.ac.uk/iiif/canvas/866462cc-d658-41da-a33d-5a8c375b1ac0.json
+  user: Tim Dungate
 - added: '2024-06-24 12:25:33.243387'
   iiif: false
   thumbnail: https://iiif.bodleian.ox.ac.uk/iiif/image/2e8f3f92-7a41-4c30-909f-9a4a0d539fd6/info.json
