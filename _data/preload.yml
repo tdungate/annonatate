@@ -1,4 +1,10 @@
 images:
+- added: '2024-06-24 13:13:13.349209'
+  iiif: false
+  thumbnail: https://iiif.bodleian.ox.ac.uk/iiif/image/866462cc-d658-41da-a33d-5a8c375b1ac0
+  title: ''
+  url: https://iiif.bodleian.ox.ac.uk/iiif/image/866462cc-d658-41da-a33d-5a8c375b1ac0
+  user: Tim Dungate
 - added: '2024-06-24 13:08:28.015280'
   iiif: true
   thumbnail: ''
